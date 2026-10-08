@@ -1,7 +1,7 @@
 # To-Do
 
 ## Objetivos
-
+O objetivo do projeto é criar um site que trabalha com listas, planilhas e tarefas, fácil de usar, com um formatos mais redondos, colorido com cores pastéis, que seja fácil de salvar e deletar.
 
 ### Stack Tecnlógico
 - Backend: PHP estruturado com sessões nativas
