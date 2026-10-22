@@ -10,11 +10,11 @@ O objetivo do projeto é criar um site que trabalha com listas, planilhas e tare
 
 #### Regras de negócio (CORE)
 - Cadastro dos usuários
-- Acesso ao sistema
 - Permissões autorizadas do perfil
-- Verificação de dados
-- Alterações
-- Armazenamento dos registros
+- personalização de listas com categorias, cores e banners.
+- todas as imagens enviadas no sistema vai ficar na base em base64 otimizado. 
+- compartilhamento de listas através de links ou qr-code.
+- os tipos de listas são tipo checklist, listas comum.
   
 
 ##### Regras Globais
